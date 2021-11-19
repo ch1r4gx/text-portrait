@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body {
+  background: black;
+  overflow: hidden;
+}
+p {
+  font-family: 'Poppins', sans-serif;
+  line-height: 17px;
+  background: url("1.jpg");
+  -webkit-background-clip: text;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+  background-size: 250vh;
+  background-position: center;
+}
